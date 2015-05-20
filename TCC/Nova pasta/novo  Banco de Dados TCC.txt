@@ -1,0 +1,224 @@
+
+drop database satcar;
+create database satcar;
+use satcar;
+
+create table cliente
+(
+id_cli int not null auto_increment,
+	email_cli varchar(50) not null,
+	senha_cli varchar(20) not null,
+	nome_cli varchar(100) not null,
+	datanasc_cli date not null,
+	rg_cli varchar(30) not null,
+	cpf_cli varchar(30) not null,
+	sexo_cli varchar(10) not null,
+	estciv_cli varchar(20),
+	cep_cli varchar(25) not null,
+	endereco_cli varchar(50) not null,
+	bairro_cli varchar(50) not null,
+	numcasa_cli int not null,
+	complemento_cli varchar(25),
+	cidade_cli varchar(100) not null,
+	uf_cli varchar(20) not null,
+	tel_cli varchar(20) not null,
+	cel_cli varchar(20),
+	tipopessoa_cli varchar(20) not null,
+	numdependentes_cli int,
+	profissao_cli varchar(50),
+	empresa_cli varchar(50),
+	cepEmpresa_cli varchar(25),
+	enderecoEmpresa_cli varchar(50),
+	bairroEmpresa_cli varchar(50),
+	cidadeEmp_cli varchar(100),
+	ufEmpresa_cli varchar(20),
+	telCom_cli varchar(20),
+	banco_cli varchar(50),
+	tipoconta_cli varchar(50),
+	agencia_cli varchar(50),
+	numconta_cli int,
+	renda_cli float,
+	
+primary key (id_cli),
+constraint uq_VP unique (cpf_cli),
+constraint uq_VP1 unique (rg_cli),
+constraint ch_VP1 check (sx_cli in ('Feminino', 'Masculino')),
+constraint ch_VP2 check (renda_cli > 0),
+constraint ch_VP3 check (estciv_cli in ('Casado(a)', 'Solteiro(a)', 'Viuvo(a)','Divorciado(a)')),
+constraint ch_VP4 check (tipopessoa_cli in ('Fisica', 'Juridica'))
+);
+
+
+
+create table funcionario
+(
+id_fun int not null auto_increment,
+	nome_fun varchar(100) not null,
+	cpf_fun varchar(20) not null,
+	estciv_fun varchar(20),
+	dtnasc_fun date not null,
+	sexo_fun varchar(10) not null,
+	endereco_fun varchar(50) not null,
+	num_fun int not null,
+	cidade_fun varchar(30) not null,
+	bairro_fun varchar(30) not null,
+	uf_fun varchar(20) not null,
+	cep_fun varchar(20) not null,
+	tel_fun varchar(20) not null,
+	cel_fun varchar(20),
+	salario_fun float not null,
+	departamento_fun varchar(30) not null,
+	turno_fun varchar(10) not null,
+	complemento_fun varchar(50),
+	email_fun varchar(50) not null,
+	rg_fun varchar(20) not null,
+	login Varchar(20) not null, 
+	senha varchar(20) not null,
+
+primary key (id_fun),
+Constraint uq_login unique(login),
+Constraint ch1_fun  check(turno_fun in ('Manhã','Tarde',’Noite’)),
+Constraint ch2_fun check(estcivil_fun in ('Solteiro (a)','Casado (a)',’Viuvo (a)’,’Divorciado (a)’)),
+Constraint ch_fun  check(sexo_fun in ('Feminino','Masculino')),
+Constraint uq_fun unique(cpf_fun),
+Constraint uq_fun2 unique(rg_fun)
+);
+
+
+
+Create table formapagamento
+(
+id_pag int not null auto_increment,
+	forma_pag Varchar(40), 
+primary key (id_pag)
+);
+
+
+
+
+create table fornecedor
+(
+id_forn int not null auto_increment,
+	nome_forn varchar(100) not null,
+	cnpj_forn varchar(50) not null,
+	pais_forn varchar(50) not null,
+	cidade_forn varchar(100) not null,
+	fone_forn varchar(50) not null,
+	email_forn varchar(50) not null,
+	site_forn varchar(50),
+	uf_forn varchar(20) not null,
+primary key (id_forn),
+constraint uq_forn unique (cnpj_forn)
+);
+
+
+
+
+
+create table carrofornecedor
+(
+id_cf int not null auto_increment,
+id_forn int not null,
+	nome_cf varchar(50) not null,
+	modelo_cf varchar(50),
+	marca_cf varchar(50) not null,
+	anofab_cf int not null,
+	cor_cf varchar(40) not null,
+	combustivel_cf varchar(40) not null,
+	portas_cf int not null,
+	opcionais_cf varchar(200),
+	desc_cf varchar(500),
+	valor_cf float not null,
+	qtd_cf int not null,
+primary key (id_cf),
+foreign key (id_forn) references fornecedor (id_forn)
+);
+
+
+
+
+
+create table carrocliente
+(
+id_cc int not null auto_increment,
+	id_cli int not null,
+	nome_cc varchar(30) not null,
+	modelo_cc varchar(30),
+	marca_cc varchar(20) not null,
+	anofab_cc int not null,
+	cor_cc varchar(40) not null,
+	combustivel_cc varchar(40) not null,
+	portas_cc int not null,
+	km_cc float not null,
+	finalplaca_cc varchar(4) not null,
+	opcionais_cc varchar(200),
+	desc_cc varchar(500),
+	valor_cc float not null,
+	valorent_cc float not null,
+	valorfin_cc float not null,
+	parc_cc int not null,
+	qtd int,
+primary key(id_cc),
+constraint uq_car unique (finalplaca_cc),
+foreign key (id_cli) references cliente (id_cli)
+);
+
+
+
+
+
+create table administrador
+(
+id_adm int not null auto_increment,
+	nome_adm varchar(100) not null,
+	login_adm varchar(50) not null,
+	senha_adm varchar(20) not null,
+primary key (id_adm)
+);
+insert into administrador values (0, "nome", "admin", "admin");
+
+
+
+
+
+create table venda
+(
+id_venda int not null auto_increment,
+	id_cli int not null,
+	id_cf int,
+	id_cc int,
+	id_fun int not null,
+	id_pag int not null,
+	qtd_desejada int,
+	total float not null,
+	datacomp_venda date,
+	valor_ent float not null,
+	valor_fin float not null,
+	parcelas int not null,
+primary key (id_venda),
+foreign key(id_cli) references cliente(id_cli),
+foreign key(id_cf) references carrofornecedor(id_cf),
+foreign key(id_cc) references carrocliente(id_cc),
+foreign key(id_fun) references funcionario(id_fun),
+foreign key(id_pag) references formapagamento(id_pag)
+);
+
+
+
+
+
+
+
+create table contrato
+(
+id_cont int not null auto_increment,
+	id_cli int not null,
+	id_fun int not null,
+	id_pag int not null,
+	datacomp_cont date,
+	valor_cont varchar(40),
+primary key(id_cont),
+foreign key(id_cli) references Cliente(id_cli),
+foreign key(id_fun) references Funcionario(id_fun),
+foreign key(id_pag) references FormaPagamento(id_pag)
+);

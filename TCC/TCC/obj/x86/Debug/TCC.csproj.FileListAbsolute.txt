@@ -1,0 +1,788 @@
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\bin\Debug\TCC.exe
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\bin\Debug\TCC.pdb
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.exe
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.pdb
+d:\meus documentos alunos.csa\visual studio 2010\Projects\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.exe
+H:\TCC\TCC\obj\x86\Debug\TCC.pdb
+H:\TCC\TCC\bin\Debug\TCC.exe
+H:\TCC\TCC\bin\Debug\TCC.pdb
+H:\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+H:\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TCC\TCC\bin\Debug\TCC.exe
+G:\TCC\TCC\bin\Debug\TCC.pdb
+G:\TCC\TCC\obj\x86\Debug\TCC.pdb
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.exe
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.pdb
+F:\Desktop\TCC\TCC\bin\Debug\TCC.exe
+F:\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+F:\Desktop\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCarro.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+F:\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Mateus\Desktop\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCarro.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Users\Mateus\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.pdb
+G:\TCC - 2012\TCC\TCC\bin\Debug\TCC.exe
+G:\TCC - 2012\TCC\TCC\bin\Debug\TCC.pdb
+G:\TCC - 2012\TCC\TCC\bin\Debug\mysql.data.dll
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.InfCarro.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TCC - 2012\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Users\Mateus\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Users\Mateus\Desktop\BD 2\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\TCC.Venda.resources
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\CEP MYSQL\Nova pasta (2)\TCC\TCC\bin\Debug\mysql.data.dll
+H:\tamires\rare\TCC\TCC\obj\x86\Debug\TCC.exe
+H:\tamires\rare\TCC\TCC\obj\x86\Debug\TCC.pdb
+G:\tamires\rare\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\tamires\rare\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\rare\TCC\TCC\bin\Debug\TCC.exe
+C:\Users\Mateus\Desktop\rare\TCC\TCC\bin\Debug\TCC.pdb
+C:\Users\Mateus\Desktop\rare\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.pdb
+G:\rare\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\rare\TCC\TCC\bin\Debug\TCC.exe
+G:\rare\TCC\TCC\bin\Debug\TCC.pdb
+G:\rare\TCC\TCC\bin\Debug\mysql.data.dll
+G:\rare\TCC\TCC\bin\Debug\TCC.exe.config
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+G:\rare\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Mateus\Desktop\rare\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\rare\TCC\TCC\bin\Debug\TCC.exe.config
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.exe
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.pdb
+H:\rare\TCC\TCC\bin\Debug\TCC.exe
+H:\rare\TCC\TCC\bin\Debug\TCC.pdb
+H:\rare\TCC\TCC\bin\Debug\mysql.data.dll
+H:\rare\TCC\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Form1.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Menu.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+H:\rare\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\rare\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\munique s2s2\TCC\TCC\bin\Debug\TCC.exe.config
+G:\munique s2s2\TCC\TCC\obj\x86\Debug\TCC.exe
+G:\munique s2s2\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.Estoque.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+G:\TCC\TCC\bin\Debug\TCC.exe.config
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+G:\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+G:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+G:\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+G:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\TCC\TCC\bin\Debug\TCC.exe.config
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.Dados.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.Escolher.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfCliente.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.menuFunc.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.VendaCC.resources
+H:\TCC\TCC\obj\x86\Debug\TCC.VendaCF.resources
+H:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+H:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+H:\TCC\TCC\obj\x86\Debug\ResGen.read.1.tlog
+H:\TCC\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\TCC\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\TCC\TCC\bin\Debug\mysql.data.dll
+G:\TCC\TCC\bin\Debug\mysql.data.dll
+C:\Documents and Settings\web\Desktop\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Documents and Settings\web\Desktop\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\web\Desktop\TCC\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.exe
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+G:\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+G:\TCC2 tamires\TCC\bin\Debug\TCC.exe
+G:\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+G:\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+G:\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+H:\TCC2 tamires\TCC\bin\Debug\TCC.exe
+H:\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+H:\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+H:\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+C:\Documents and Settings\web\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+D:\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+D:\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+D:\TCC2 tamires\TCC\bin\Debug\TCC.exe
+D:\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+D:\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+F:\Desktop\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+G:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+G:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+D:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+F:\Desktop\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\bin\Debug\TCC.exe
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+C:\Documents and Settings\ALUNOS\Desktop\andris\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+G:\SatCar\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+G:\SatCar\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+G:\SatCar\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+C:\Documents and Settings\ALUNOS\Desktop\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+G:\SatCar 2\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+G:\SatCar 2\TCC2 tamires\TCC\bin\Debug\TCC.exe
+G:\SatCar 2\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+G:\SatCar 2\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+G:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+F:\SatCar 2\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\bin\Debug\TCC.exe.config
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.exe
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.pdb
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\bin\Debug\TCC.exe
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\bin\Debug\TCC.pdb
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\bin\Debug\mysql.data.dll
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroCliente.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCarroFornecedor.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarCliente.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFormaPag.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFornecedor.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.CadastrarFuncionario.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Dados.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Escolher.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Form1.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.FormRelatorio.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroCliente.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCarroFornecedor.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfCliente.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFormaPag.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFornecedor.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.InfFuncionario.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Menu.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.menuFunc.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.Properties.Resources.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCC.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\TCC.VendaCF.resources
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\ResGen.read.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+D:\Meus Documentos Alunos.Csa\TCC2 tamires\TCC\obj\x86\Debug\ResGen.write.1.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\TCC.Backup.resources
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.121.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.read.122.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.113.tlog
+H:\TCC2 tamires\TCC\obj\x86\Debug\GenerateResource.write.122.tlog
+C:\Users\Andris\Desktop\BKP Andris\Arquivos\cd SatCar\TCC\TCC\bin\Debug\TCC.exe.config
+C:\Users\Andris\Desktop\BKP Andris\Arquivos\cd SatCar\TCC\TCC\obj\x86\Debug\TCC.exe
+C:\Users\Andris\Desktop\BKP Andris\Arquivos\cd SatCar\TCC\TCC\obj\x86\Debug\TCC.pdb
